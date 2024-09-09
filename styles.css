@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+    margin: 0;
+    padding: 20px;
+    }
+
+    h1 {
+        color: #1ff35f;
+    }
+    p{
+        font-size: 15px;
+    }
+    
+
+    /* h6 {
+
+} */
+
+.h65startpage {
+    color: olive;
+    font-size: 28;
+}
+
+#textparagrafsmall {
+    background-color: red;
+    /* background-color: #fafa; */
+}
